@@ -87,11 +87,11 @@ I also have hands-on experience in **firmware development (ESP32)** and **AI-dri
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Lukael&show_icons=true&include_all_commits=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukael&layout=compact" />
 </p>
-
+<!--
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lukael" />
+  <img src="https://streak-stats.demolab.com?user=Lukael" alt="GitHub Streak" />
 </p>
-
+-->
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=Lukael&no-frame=true&row=1&column=7" />
 </p>
