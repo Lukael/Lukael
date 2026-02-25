@@ -4,12 +4,16 @@
 -->
 
 <h1 align="center">Hi there 👋 I'm Jaewoo Jung (Lukael)</h1>
-<h3 align="center">AI/ML Engineer · Ph.D. Candidate · Computational Imaging · MLOps · Firmware</h3>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=9DD7F7&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%40+Imaging+Intelligence+Lab;Computational+Imaging+%C2%B7+MLOps+%C2%B7+Firmware" alt="Typing SVG" /></a>
+</div>
+
+<!-- <h3 align="center">AI/ML Engineer · Ph.D. Candidate · Computational Imaging · MLOps · Firmware</h3> -->
 
 <p align="center">
   <a href="https://lukael.kr"><img src="https://img.shields.io/badge/Website-lukael.kr-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:dev@lukael.kr"><img src="https://img.shields.io/badge/Email-dev@lukael.kr-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Lukael"><img src="https://img.shields.io/badge/GitHub-Lukael-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lukael"><img src="https://img.shields.io/badge/LinkedIn-lukael-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=sFVeMfUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-sFVeMfUAAAAJ-000?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </p>
@@ -17,21 +21,23 @@
 ---
 
 ### ✨ About me
-I’m an **AI/ML Engineer** building **learning-based imaging** and **intelligent engineering systems**.  
+
+I’m an **AI/ML Engineer** building **computational imaging** and **physics-guided AI models**.  
 My current focus is **lensless image reconstruction**, **end-to-end ML pipelines**, and **MLOps** (training → deployment → monitoring).  
 I also have hands-on experience in **firmware development (ESP32)** and **AI-driven EDA / circuit design automation**.
 
 - 🔭 Research: **Lensless Imaging**, **Lensless Holographic Microscopy**, **Computational Imaging**
-- 🧰 Engineering: **MLOps**, **Model Serving/Testing**, **Monitoring**, **Backend (Go)**
+- 🧰 Engineering: **MLOps**, **Model Serving/Testing**, **Monitoring**, **Backend (Go, Python)**
 - 🔌 Embedded: **ESP32**, **Wi-Fi/BLE**, **OTA**, **Mesh networking prototypes**
 - 🧩 Industry: AI for **PCB placement & routing**, **LLM-based component recommendation**, **component DB systems**
+- 📫 Reach me: dev@lukael.kr (personal) | lukael.jung@yonsei.ac.kr (work)
 
 ---
 
 ### 🧪 What I’m up to
 - **Research Engineer @ Seoul National University** (Imaging Intelligence Lab)
 - Previously **Research Engineer @ LUXROBO (MODI Factory)** — AI-driven EDA workflows (PCB placement/routing)
-- Ph.D. Candidate @ **Yonsei University** (EE)
+- Ph.D. Candidate @ **Yonsei University** (EEE)
 
 ---
 
@@ -42,7 +48,6 @@ I also have hands-on experience in **firmware development (ESP32)** and **AI-dri
   <img src="https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-000?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white" />
@@ -83,18 +88,26 @@ I also have hands-on experience in **firmware development (ESP32)** and **AI-dri
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Lukael&show_icons=true&include_all_commits=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lukael&layout=compact" />
-</p>
-<!--
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lukael" alt="GitHub Streak" />
-</p>
--->
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Lukael&no-frame=true&row=1&column=7" />
-</p>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukael&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lukael&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukael&theme=github_dark)
+
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lukael&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lukael&theme=github_dark&utcOffset=8)
+
+</div>
 
 ---
 
