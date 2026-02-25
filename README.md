@@ -12,10 +12,10 @@
 <!-- <h3 align="center">AI/ML Engineer · Ph.D. Candidate · Computational Imaging · MLOps · Firmware</h3> -->
 
 <p align="center">
-  <a href="https://lukael.kr"><img src="https://img.shields.io/badge/Website-lukael.kr-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:dev@lukael.kr"><img src="https://img.shields.io/badge/Email-dev@lukael.kr-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lukael"><img src="https://img.shields.io/badge/LinkedIn-lukael-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=sFVeMfUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-sFVeMfUAAAAJ-000?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://lukael.kr"><img src="https://img.shields.io/badge/Website-lukael.kr-2C3E50?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:dev@lukael.kr"><img src="https://img.shields.io/badge/Email-dev@lukael.kr-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lukael"><img src="https://img.shields.io/badge/LinkedIn-lukael-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=sFVeMfUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </p>
 
 ---
@@ -41,7 +41,7 @@ I also have hands-on experience in **firmware development (ESP32)** and **AI-dri
 
 ---
 
-### 🧰 Tech Stack (the fun part)
+### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=white" />
