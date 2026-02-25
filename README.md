@@ -90,22 +90,13 @@ I also have hands-on experience in **firmware development (ESP32)** and **AI-dri
 ### 📈 GitHub Stats
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukael&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukael&theme=gotham)
 
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lukael&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lukael&theme=gotham&utcOffset=8)
 
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lukael&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukael&theme=github_dark)
-
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lukael&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lukael&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukael&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lukael&theme=gotham)
 
 </div>
 
